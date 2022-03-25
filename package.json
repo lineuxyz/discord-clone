@@ -11,7 +11,7 @@
     "@types/react": "^16.9.0",
     "@types/react-dom": "^16.9.0",
     "custom-electron-titlebar": "^3.2.2-hotfix62",
-    "electron": "^11.5.0",
+    "electron": "^13.6.6",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
